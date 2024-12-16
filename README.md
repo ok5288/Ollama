@@ -33,6 +33,9 @@ The official [Ollama Docker image](https://hub.docker.com/r/ollama/ollama) `olla
 - [ollama-python](https://github.com/ollama/ollama-python)
 - [ollama-js](https://github.com/ollama/ollama-js)
 
+  ###
+  [https://www.youtube.com/watch?v=uTInCh0KRtA]
+
 ## Quickstart
 
 To run and chat with [Llama 2](https://ollama.com/library/llama2):
