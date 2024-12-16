@@ -33,8 +33,8 @@ The official [Ollama Docker image](https://hub.docker.com/r/ollama/ollama) `olla
 - [ollama-python](https://github.com/ollama/ollama-python)
 - [ollama-js](https://github.com/ollama/ollama-js)
 
-### 
-[Youtube](https://www.youtube.com/watch?v=uTInCh0KRtA)
+### YouTube Instructions
+[![点击观看视频](https://img.youtube.com/vi/uTInCh0KRtA/0.jpg)](https://www.youtube.com/watch?v=uTInCh0KRtA)
 
 ## Quickstart
 
